@@ -1,0 +1,23 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+img {
+    height: 420px;
+    width: auto;
+}
+
+.body-text,
+.list {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-block-end: 20px;
+}
+
+li,
+.list {
+    padding-bottom: 12px;
+}
+
+.link {
+    color: rgb(4, 102, 199);
+}
